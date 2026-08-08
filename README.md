@@ -39,7 +39,7 @@ cursor as well, so the jump actually sticks.
 Add this repo to `pluginrepos` in `~/.config/micro/settings.json`:
 
 ```json
-"pluginrepos": ["https://raw.githubusercontent.com/vish9812/scrollz/main/repo.json"]
+"pluginrepos": ["https://raw.githubusercontent.com/vish9812/micro-scrollz/main/repo.json"]
 ```
 
 Then:
@@ -51,7 +51,7 @@ Then:
 ### Manually
 
 ```sh
-git clone https://github.com/vish9812/scrollz ~/.config/micro/plug/scrollz
+git clone https://github.com/vish9812/micro-scrollz ~/.config/micro/plug/scrollz
 ```
 
 Either way, restart micro. Verify with `> help scrollz`.

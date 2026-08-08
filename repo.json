@@ -2,12 +2,12 @@
     {
         "Name": "scrollz",
         "Description": "Viewport control: scroll the cursor line to the top or bottom of the view, and half-page jumps that keep the cursor with you and centered.",
-        "Website": "https://github.com/vish9812/scrollz",
+        "Website": "https://github.com/vish9812/micro-scrollz",
         "Tags": ["scroll", "viewport", "navigation"],
         "Versions": [
             {
                 "Version": "1.0.0",
-                "Url": "https://github.com/vish9812/scrollz/archive/v1.0.0.zip",
+                "Url": "https://github.com/vish9812/micro-scrollz/archive/v1.0.0.zip",
                 "Require": {
                     "micro": ">=2.0.0"
                 }
