@@ -2,8 +2,10 @@
     {
         "Name": "scrollz",
         "Description": "Viewport control: scroll the cursor line to the top or bottom of the view, and half-page jumps that keep the cursor with you and centered.",
+        "Author": "vish9812",
         "Website": "https://github.com/vish9812/micro-scrollz",
-        "Tags": ["scroll", "viewport", "navigation"],
+        "License": "MIT",
+        "Tags": ["scroll", "viewport", "navigation", "softwrap", "vim"],
         "Versions": [
             {
                 "Version": "1.0.0",
