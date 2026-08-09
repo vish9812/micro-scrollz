@@ -86,6 +86,16 @@ against the edge of the view.
 
 micro 2.0.0 or newer.
 
+## My other plugins
+
+- [palette](https://github.com/vish9812/micro-palette) — a searchable palette for
+  micro: help topics, options, colorschemes, open buffers and files behind one
+  keystroke.
+- [ember](https://github.com/vish9812/micro-ember) — four warm truecolor
+  colorschemes for micro, two of them transparent.
+- [navz](https://github.com/vish9812/navz) — keyboard-first navigation for VS
+  Code, and the companion to this plugin.
+
 ## License
 
 MIT
