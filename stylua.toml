@@ -1,0 +1,14 @@
+# micro embeds GopherLua, which implements Lua 5.1.
+syntax = "Lua51"
+
+# Match the existing source: tabs, and double quotes unless the string
+# contains one.
+indent_type = "Tabs"
+indent_width = 4
+quote_style = "AutoPreferDouble"
+
+# The code is hand-wrapped to about 80 columns, but a handful of lines run to
+# 82. Setting the limit there makes stylua split `micro.InfoBar():Error(...)`
+# across three lines to save two characters, which reads worse than the long
+# line does. 90 leaves those alone and still catches anything genuinely wide.
+column_width = 90
